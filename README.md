@@ -1,4 +1,4 @@
-# product management application - CJL - TEST
+# Product Management Application - CJL - TEST
 
 A product management application built with Laravel for managing company website and operations.
 
